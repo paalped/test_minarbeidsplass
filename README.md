@@ -1,2 +1,2 @@
-# test_minarbeidsplass 1..2..3
+# test_minarbeidsplass
 A jenkins test repository
